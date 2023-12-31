@@ -1,4 +1,4 @@
 # GitTesting
 This repository is made for testing purposes
 
-Author - Pranjali Barve
+Author - Pranjali Ramesh Barve
